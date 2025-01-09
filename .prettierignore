@@ -1,0 +1,8 @@
+# Ignore node_modules
+node_modules
+
+# Optionally ignore other files or directories
+dist
+build
+*.log
+pnpm-lock.yaml
